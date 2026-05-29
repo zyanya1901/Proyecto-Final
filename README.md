@@ -1,0 +1,1 @@
+Este es el repositorio correspondiente a mi proyecto, que se centra en la elaboración de un modelo de segregación para verificar si la satisfacción en las personas incremente a medida que se genera la agrupación en el espacio entre individuos de la misma clase social.
